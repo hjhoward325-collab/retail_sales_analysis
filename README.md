@@ -64,3 +64,5 @@ Furniture has the highest average discount (17%) and the lowest margin (11.9%). 
 
 - `queries.sql` — all 8 queries in full
 - `README.md` — this file
+  
+  A companion presentation summarizing these findings for a non-technical audience is available on request.
